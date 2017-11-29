@@ -1,5 +1,9 @@
 package binarySearchTree;
 
+/*
+ * BinarySearchTree 구현. 삽입 시 재귀호출로 삽입과 반복문이용 삽입 두가지
+ */
+
 import java.util.NoSuchElementException;
 
 class BinarySearchTree {
