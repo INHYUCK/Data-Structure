@@ -5,8 +5,6 @@ import java.util.Scanner;
 
 public class BinarySearchTreeTest { 
 	public static void main(String[] args) { 
-		System.out.println("lab9_1 : 홍길동");
-
 		// 공백 이진탐색트리 tree를 생성
 		BinarySearchTree tree = new BinarySearchTree();
 
