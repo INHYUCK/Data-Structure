@@ -4,9 +4,7 @@ import java.util.Scanner;
 
 public class DoublyLinkedListTest {
 	public static void main(String[] args) {
-		
-		System.out.println("lab6_2: ȫ�浿\n");
-
+	
 		DoublyLinkedList list = new DoublyLinkedList();
 
 		Scanner scan = new Scanner(System.in);
